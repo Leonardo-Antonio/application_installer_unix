@@ -1,4 +1,4 @@
-module github.com/Leonardo-Antonio/targz_application_installer
+module github.com/Leonardo-Antonio/application_installer_unix
 
 go 1.23.2
 
